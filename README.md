@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/UnknownNPC/payment-systems-api-collection.svg?branch=master)](https://travis-ci.org/UnknownNPC/payment-systems-api-collection)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.unknownnpc.psw/api_2.12/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.unknownnpc.psw/api_2.12)
+
 
 Payment Systems API Collection
 =====================
@@ -8,7 +7,6 @@ Payment Systems API Collection
 Multi-module sbt project with API for integration with banks/money systems (Qiwi, WM, P24).
 Table below contains some more details about current implementation status.
 
-_PS: project structure & code smell in some places. It happens because of luck of time. Sorry for that :3_
 
 ## Content
  
